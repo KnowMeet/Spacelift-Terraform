@@ -37,5 +37,5 @@ The incorporation of Open Policy Agent (OPA) adds an extra layer of security by 
 
 **Coutesy**
 
-Follow **MoreThanCertified** creator [Derek Morgan](https://www.linkedin.com/in/derekm1215/) for creating fun courses and insights about DevOps. Checkout the [Repo](https://github.com/morethancertified/tf-spacelift-initial) for the initial project code to build this project.
+Follow **MoreThanCertified** creator [Derek Morgan](https://www.linkedin.com/in/derekm1215/) for fun courses and insights about DevOps. Checkout the [Repo](https://github.com/morethancertified/tf-spacelift-initial) for the initial project code to build this project.
 
