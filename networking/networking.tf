@@ -11,7 +11,7 @@ resource "aws_vpc" "meet_vpc" {
 resource "aws_subnet" "meet_public_subnet" {
   vpc_id                  = aws_vpc.meet_vpc.id
   ## Please specify your CIDR based on your need.
-  cidr_block              = "192.168.0.0/20 "
+  cidr_block              = "30.123.1.0/24"
   map_public_ip_on_launch = true
   availability_zone       = "ca-central-1a"
 
@@ -58,7 +58,7 @@ resource "aws_security_group" "meet_sg" {
     from_port   = 0
     to_port     = 0
     protocol    = "-1"
-    cidr_blocks = ["38.40.99.88/32"]
+    cidr_blocks = ["192.168.0.0/24"]
   }
 
   egress {
