@@ -35,7 +35,7 @@ In conclusion, our project successfully implemented a modular and scalable remot
 
 The incorporation of Open Policy Agent (OPA) adds an extra layer of security by restricting users to building instances of a specific size, showcasing a comprehensive and well-orchestrated approach to infrastructure as code.
 
-**Coutesy**
+**Courtesy**
 
 Follow **MoreThanCertified** creator [Derek Morgan](https://www.linkedin.com/in/derekm1215/) for fun courses and insights about DevOps. Checkout the [Repo](https://github.com/morethancertified/tf-spacelift-initial) for the initial project code to build this project.
 
